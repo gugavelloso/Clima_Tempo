@@ -1,0 +1,35 @@
+{
+    "_type": "export",
+    "__export_format": 4,
+    "__export_date": "2025-04-11T00:00:00.000Z",
+    "__export_source": "insomnia.desktop.app:v2021.3.3",
+    "resources": [
+      {
+        "_id": "req_weather",
+        "parentId": "fld_example",
+        "modified": 0,
+        "created": 0,
+        "name": "Obter Clima - SaoPaulo",
+        "url": "http://localhost:5000/weather/SaoPaulo",
+        "method": "GET",
+        "body": {},
+        "headers": [],
+        "parameters": [],
+        "authentication": {}
+      },
+      {
+        "_id": "req_recommendation",
+        "parentId": "fld_example",
+        "modified": 0,
+        "created": 0,
+        "name": "Obter Recomendação - SaoPaulo",
+        "url": "http://localhost:5000/recommendation/SaoPaulo",
+        "method": "GET",
+        "body": {},
+        "headers": [],
+        "parameters": [],
+        "authentication": {}
+      }
+    ]
+  }
+  
