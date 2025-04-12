@@ -18,38 +18,12 @@
       "authentication": {}
     },
     {
-      "_id": "req_recommendation_curitiba",
-      "parentId": "fld_example",
-      "modified": 0,
-      "created": 0,
-      "name": "Obter Recomendação - Curitiba",
-      "url": "http://localhost:5000/recommendation/Curitiba",
-      "method": "GET",
-      "body": {},
-      "headers": [],
-      "parameters": [],
-      "authentication": {}
-    },
-    {
       "_id": "req_weather_saopaulo",
       "parentId": "fld_example",
       "modified": 0,
       "created": 0,
       "name": "Obter Clima - SaoPaulo",
       "url": "http://localhost:5000/weather/SaoPaulo",
-      "method": "GET",
-      "body": {},
-      "headers": [],
-      "parameters": [],
-      "authentication": {}
-    },
-    {
-      "_id": "req_recommendation_saopaulo",
-      "parentId": "fld_example",
-      "modified": 0,
-      "created": 0,
-      "name": "Obter Recomendação - SaoPaulo",
-      "url": "http://localhost:5000/recommendation/SaoPaulo",
       "method": "GET",
       "body": {},
       "headers": [],
@@ -70,19 +44,6 @@
       "authentication": {}
     },
     {
-      "_id": "req_recommendation_rio",
-      "parentId": "fld_example",
-      "modified": 0,
-      "created": 0,
-      "name": "Obter Recomendação - RioDeJaneiro",
-      "url": "http://localhost:5000/recommendation/RioDeJaneiro",
-      "method": "GET",
-      "body": {},
-      "headers": [],
-      "parameters": [],
-      "authentication": {}
-    },
-    {
       "_id": "req_weather_brasilia",
       "parentId": "fld_example",
       "modified": 0,
@@ -96,38 +57,12 @@
       "authentication": {}
     },
     {
-      "_id": "req_recommendation_brasilia",
-      "parentId": "fld_example",
-      "modified": 0,
-      "created": 0,
-      "name": "Obter Recomendação - Brasilia",
-      "url": "http://localhost:5000/recommendation/Brasilia",
-      "method": "GET",
-      "body": {},
-      "headers": [],
-      "parameters": [],
-      "authentication": {}
-    },
-    {
       "_id": "req_weather_portoalegre",
       "parentId": "fld_example",
       "modified": 0,
       "created": 0,
       "name": "Obter Clima - PortoAlegre",
       "url": "http://localhost:5000/weather/PortoAlegre",
-      "method": "GET",
-      "body": {},
-      "headers": [],
-      "parameters": [],
-      "authentication": {}
-    },
-    {
-      "_id": "req_recommendation_portoalegre",
-      "parentId": "fld_example",
-      "modified": 0,
-      "created": 0,
-      "name": "Obter Recomendação - PortoAlegre",
-      "url": "http://localhost:5000/recommendation/PortoAlegre",
       "method": "GET",
       "body": {},
       "headers": [],
