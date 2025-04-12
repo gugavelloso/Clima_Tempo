@@ -1,0 +1,73 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_date": "2025-04-11T00:00:00.000Z",
+  "__export_source": "insomnia.desktop.app:v2021.3.3",
+  "resources": [
+    {
+      "_id": "req_recommendation_curitiba",
+      "parentId": "fld_example",
+      "modified": 0,
+      "created": 0,
+      "name": "Obter Recomendação - Curitiba",
+      "url": "http://localhost:5000/recommendation/Curitiba",
+      "method": "GET",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {}
+    },
+    {
+      "_id": "req_recommendation_saopaulo",
+      "parentId": "fld_example",
+      "modified": 0,
+      "created": 0,
+      "name": "Obter Recomendação - SaoPaulo",
+      "url": "http://localhost:5000/recommendation/SaoPaulo",
+      "method": "GET",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {}
+    },
+    {
+      "_id": "req_recommendation_rio",
+      "parentId": "fld_example",
+      "modified": 0,
+      "created": 0,
+      "name": "Obter Recomendação - RioDeJaneiro",
+      "url": "http://localhost:5000/recommendation/RioDeJaneiro",
+      "method": "GET",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {}
+    },
+    {
+      "_id": "req_recommendation_brasilia",
+      "parentId": "fld_example",
+      "modified": 0,
+      "created": 0,
+      "name": "Obter Recomendação - Brasilia",
+      "url": "http://localhost:5000/recommendation/Brasilia",
+      "method": "GET",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {}
+    },
+    {
+      "_id": "req_recommendation_portoalegre",
+      "parentId": "fld_example",
+      "modified": 0,
+      "created": 0,
+      "name": "Obter Recomendação - PortoAlegre",
+      "url": "http://localhost:5000/recommendation/PortoAlegre",
+      "method": "GET",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {}
+    }
+  ]
+}
